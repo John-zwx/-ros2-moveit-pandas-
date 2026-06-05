@@ -1,3 +1,7 @@
+### 环境
+- ubuntu20.04
+- ros2 foxy
+
 ```tree
 panda_ws/
 ├── build/                         # 编译构建目录
